@@ -1,0 +1,2 @@
+# linux
+random bash scripts
