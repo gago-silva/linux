@@ -1,2 +1,2 @@
 # linux
-random bash scripts
+ - Bash function and set of linux bash commands
